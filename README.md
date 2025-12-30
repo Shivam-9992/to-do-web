@@ -60,10 +60,6 @@ Then open `http://localhost:6969` in your browser.
 └── README.md
 ```
 
-*(Structure may vary depending on your setup)*
-
----
-
 ## 🎯 Purpose
 
 This project was built to:
