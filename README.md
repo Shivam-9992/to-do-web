@@ -1,5 +1,3 @@
----
-
 # 📝 To-Do Web App
 
 A simple and clean **To-Do List web application** that helps users organize tasks, stay productive, and manage daily activities easily.
@@ -21,7 +19,7 @@ A simple and clean **To-Do List web application** that helps users organize task
 
 ## 🚀 Tech Stack
 
-* **Frontend:** React.js
+* **Frontend:** React
 * **Deployment:** Vercel
 
 ---
@@ -60,6 +58,9 @@ Then open `http://localhost:6969` in your browser.
 └── README.md
 ```
 
+
+---
+
 ## 🎯 Purpose
 
 This project was built to:
@@ -72,9 +73,19 @@ This project was built to:
 
 ## 🤝 Contributing
 
-Contributions are welcome!
-Feel free to fork this repo and submit a pull request.
+Contributions are welcome! To contribute:
 
++ Fork the repository
+
++ Clone your fork: git clone https://github.com/Shivam-9992/to-do-web.git
+
++ Create a new branch: git checkout -b feature/your-feature-name
+
++ Commit your changes: git commit -m "Describe your changes"
+
++ Push to your fork: git push origin feature/your-feature-name
+
++ Open a Pull Request
 ---
 
 ## 📄 License
@@ -82,3 +93,6 @@ Feel free to fork this repo and submit a pull request.
 This project is open source and available under the **MIT License**.
 
 ---
+## 🙌 Author
+
+Built with ❤️ by [Shivam Kumar](https://github.com/Shivam-9992)
